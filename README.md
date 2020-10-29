@@ -1,4 +1,4 @@
-# Unity_Demo_UI_Interaction
+# UI_Interaction
 
 Unity Versions:
 2019.4.12.1f
