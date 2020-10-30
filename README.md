@@ -4,7 +4,11 @@
 2019.4.12.1f
 
 ## Description:        
-This Demo is used to show UI interaction.     
+This demo includes following UI implementations:
+* Button    
+* Checkbox   
+* Slide Bar    
+* Draggable    
 ![](https://github.com/picoxr/UI_Interaction/blob/main/screenshot.jpg)
 
 
