@@ -1,11 +1,17 @@
-# Unity_Demo_UI_Interaction
+# UI_Interaction
 
-Unity Versions:
+## Unity Versions:    
 2019.4.12.1f
 
-Description:
-This Demo is used to show UI interaction
+## Description:        
+This demo includes following UI implementations:
+* Button    
+* Checkbox   
+* Slide Bar    
+* Draggable    
+![](https://github.com/picoxr/UI_Interaction/blob/main/screenshot.jpg)
 
-Usage:
+
+## Usage:    
 Scene: Assets->Scenes->Pvr_Controller_UI
 Hold Confirm or TouchPad button to interact with the UI
